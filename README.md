@@ -7,9 +7,9 @@
 
 This HTML & CSS tutorial covers modern techniques that are now considered best practices amongst professional web developers. Whether you’re a complete beginner or a full-time web developer who just wants to brush up on the state of the industry, these chapters are for you.
 
-⋅⋅* Flexbox
-⋅⋅* Responsive Design
-⋅⋅* Responsive Images
-⋅⋅* Semantic HTML
-⋅⋅* Web Typography
+* Flexbox
+* Responsive Design
+* Responsive Images
+* Semantic HTML
+* Web Typography
 
