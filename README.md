@@ -1,7 +1,7 @@
 
 # Interneting is Hard (But it doesn’t have to be) Friendly web development tutorials for complete beginners
 
-## Publisher of free HTML and CSS tutorials at https://internetingishard.com. (Hopefully) helping people learn how to web dev better. Created by @internetingguy
+## Publisher of free HTML and CSS tutorials at https://internetingishard.com. (Hopefully) helping people learn how to web dev better. All content is authored and maintained by Oliver James - @internetingguy
 
 ## Modern Techniques
 
